@@ -1,0 +1,29 @@
+body{
+    background-color: #9ac4cc;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+    color: #a22a22;
+}
+img{
+ display: block;
+    margin: 0 auto;
+}
+h2{
+    color: #5db0e3;
+    font-family: monospace;
+    font-size: 35px;
+    text-align: center;
+}
+p{
+    color: #2cb66d;
+    font-family: cursive;
+     font-size: 20;
+}
+ol{
+    font-family: monospace;
+    font-size: 25px;
+    color: #2d76a2;
+}
